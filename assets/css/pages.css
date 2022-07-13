@@ -1059,10 +1059,11 @@ html[data-dir="rtl"] #viewer-thumb-wrap { direction:rtl; }
 }
 
 #item2903 {
-	width:244px !important;
-	height:27px !important;
+	width:245px !important;
+	height:28px !important;
 	top:1px !important;
 	border-radius:undefined;
 	background:#fab700;
+	border:solid 1px #fab700;
 }
 #in5footer,  #prefooter {display:none;}
